@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<h4 align="left">Eu sou de Fortaleza - CE <br><br>- 📚 Atualmente estou aprendendo React e tailwind css.<br><br>- ⚡No meu tempo livre eu gosto de  ler, treinar e estudar.</h4>
+<h4 align="left">Eu sou de Fortaleza - CE <br><br>- 📚 Atualmente estou aprendendo React.<br><br>- ⚡No meu tempo livre eu gosto de  ler, treinar e estudar.</h4>
 
 ###
 
