@@ -19,7 +19,7 @@ Desenvolvedor Full Stack em formação, com experiência em desenvolvimento web 
 
 Atualmente, estou aprofundando meus conhecimentos em **modelagem e otimização de bancos de dados**, além de melhorar minha fluência em **JavaScript**. Sou apaixonado por criar interfaces modernas, responsivas e performáticas, sempre com foco em boas práticas e colaboração em equipe.
 
-- 🌱 Foco atual: Banco de dados & JavaScript
+- 🌱 Foco atual: Aprimorar meus conhecimentos em Banco de dados & JavaScript.
 
 </td>
     
