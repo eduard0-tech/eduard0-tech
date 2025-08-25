@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hafiz-k/hafiz-k/main/assets/github-header-image-2.png" alt="Banner Animado" width="100%"/>
+    
 </p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
-  <h1>
-    Olá! Eu sou o Luis Eduardo 👋
-  </h1>
-  <p>
-    <em>Um entusiasta de tecnologia que adora transformar café em código limpo e soluções criativas. <br> Bem-vindo(a) ao meu cantinho no GitHub!</em>
-  </p>
+  <h1>Olá! Eu sou o Luis Eduardo 👋</h1>
+  <p><em>Um entusiasta de tecnologia que adora transformar café em código limpo e soluções criativas. <br> Bem-vindo(a) ao meu cantinho no GitHub!</em></p>
 </div>
+
 ---
 
 <table align="center" width="100%">
@@ -18,36 +15,41 @@
       
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack em formação, com experiência em desenvolvimento web
-utilizando React, Node.js e MySQL. Formado no programa Geração Tech 2.0, onde adquiri
-competências em frontend, backend e banco de dados. Atualmente, aprimorando
-conhecimentos em modelagem e otimização de bancos de dados. Apaixonado por criar
-interfaces modernas, responsivas e performáticas, com foco em boas práticas e trabalho em
-equipe.
+Desenvolvedor Full Stack em formação, com experiência em desenvolvimento web utilizando **React**, **Node.js** e **MySQL**. Formado no programa **Geração Tech 2.0**, onde adquiri competências em frontend, backend e banco de dados.  
 
-- 🌱 Atualmente estou focado(a) em aprofundar meus conhecimentos em banco de dados e em Js.
-    </td>
-    <td width="40%" align="center">
-      
+Atualmente, estou aprofundando meus conhecimentos em **modelagem e otimização de bancos de dados**, além de melhorar minha fluência em **JavaScript**. Sou apaixonado por criar interfaces modernas, responsivas e performáticas, sempre com foco em boas práticas e colaboração em equipe.
+
+- 🌱 Foco atual: Banco de dados & JavaScript
+
+</td>
+    
+<td width="40%" align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduard0-tech/eduard0-tech/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduard0-tech/eduard0-tech/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduard0-tech/eduard0-tech/output/github-contribution-grid-snake.svg">
 </picture>
-      
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduard0-tech&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="Top Langs" />
-
-<br>
+<br><br>
 
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=eduard0-tech&bg_color=0d1117&color=ffffff&line=00a2f9&point=00a2f9&area=true&hide_border=true" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduard0-tech&bg_color=0d1117&color=ffffff&line=00a2f9&point=00a2f9&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduard0-tech&bg_color=0d1117&color=ffffff&line=00a2f9&point=00a2f9&area=true&hide_border=true" alt="Gráfico de atividades" width="100%"/>
 </a>
-      
-    </td>
+
+</td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+### 🌟 "A melhor maneira de prever o futuro é criá-lo." – Alan Kay
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coding animation"/>
+
+</div>
+
 ---
 
 ### 🚀 Minhas Habilidades
@@ -69,6 +71,8 @@ equipe.
   </tr>
 </table>
 
+---
+
 ### 🧰 Outros
 
 <table width="100%">
@@ -76,16 +80,40 @@ equipe.
     <td width="50%">
       <h4>Ferramentas e Plataformas:</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Other Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Ferramentas" />
       </p>
     </td>
     <td width="50%">
       <h4>Onde me encontrar:</h4>
       <p align="left">
-        <a href="mailto:[SEU-EMAIL-AQUI]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-        <a href="https://www.linkedin.com/in/[SEU-LINKEDIN-AQUI]/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://www.instagram.com/[SEU-INSTAGRAM-AQUI]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+        <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
       </p>
     </td>
   </tr>
 </table>
+---
+
+## 📌 Projetos em Destaque
+
+<p align="center">
+  <img src="https://github.com/eduard0-tech/eduard0-tech/assets/placeholder1.png" width="260px" />
+  <img src="https://github.com/eduard0-tech/eduard0-tech/assets/placeholder2.png" width="260px" />
+  <img src="https://github.com/eduard0-tech/eduard0-tech/assets/placeholder3.png" width="260px" />
+</p>
+
+<p align="center">
+  <em>Explore meus repositórios para ver mais soluções criativas e funcionais!</em>
+</p>
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A2F9&vCenter=true&width=435&lines=npm+run+dev;git+commit+-m+'feat:+melhoria+no+readme';deploy+--prod;Obrigado+pela+visita+🚀" alt="Terminal Animado" />
+</p>
