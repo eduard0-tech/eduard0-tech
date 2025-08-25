@@ -30,19 +30,19 @@ equipe.
     <td width="40%" align="center">
       
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO-AQUI]/[SEU-USUARIO-AQUI]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO-AQUI]/[SEU-USUARIO-AQUI]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[SEU-USUARIO-AQUI]/[SEU-USUARIO-AQUI]/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduard0-tech/eduard0-tech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduard0-tech/eduard0-tech/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduard0-tech/eduard0-tech/output/github-contribution-grid-snake.svg">
 </picture>
       
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=[SEU-USUARIO-AQUI]&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduard0-tech&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="Top Langs" />
 
 <br>
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=[SEU-USUARIO-AQUI]&bg_color=0d1117&color=ffffff&line=00a2f9&point=00a2f9&area=true&hide_border=true" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU-USUARIO-AQUI]&bg_color=0d1117&color=ffffff&line=00a2f9&point=00a2f9&area=true&hide_border=true" alt="Activity Graph" />
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=eduard0-tech&bg_color=0d1117&color=ffffff&line=00a2f9&point=00a2f9&area=true&hide_border=true" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduard0-tech&bg_color=0d1117&color=ffffff&line=00a2f9&point=00a2f9&area=true&hide_border=true" alt="Activity Graph" />
 </a>
       
     </td>
