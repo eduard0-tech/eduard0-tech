@@ -59,13 +59,13 @@ Atualmente, estou aprofundando meus conhecimentos em **modelagem e otimização 
     <td width="50%">
       <h4>Frontend:</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,vite" alt="Frontend Skills" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap" alt="Frontend Skills" />
       </p>
     </td>
     <td width="50%">
       <h4>Backend:</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,docker" alt="Backend Skills" />
+        <img src="https://skillicons.dev/icons?i=java,nodejs,express,prisma,mysql" alt="Backend Skills" />
       </p>
     </td>
   </tr>
@@ -80,19 +80,19 @@ Atualmente, estou aprofundando meus conhecimentos em **modelagem e otimização 
     <td width="50%">
       <h4>Ferramentas e Plataformas:</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Ferramentas" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Ferramentas" />
       </p>
     </td>
     <td width="50%">
       <h4>Onde me encontrar:</h4>
       <p align="left">
-        <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+        <a href="mailto:luiseduardocbft@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-        <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
+        <a href="https://www.linkedin.com/in/luis-eduardo-teófilo-castelo-branco/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
+        <a href="https://www.instagram.com/luiseduardocbft/" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
       </p>
