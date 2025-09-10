@@ -15,7 +15,7 @@
       
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack em formação, com experiência em desenvolvimento web utilizando **React**, **Node.js** e **MySQL**. Formado no programa **Geração Tech 2.0**, onde adquiri competências em frontend, backend e banco de dados.  
+Desenvolvedor Full Stack formado, com experiência em desenvolvimento web utilizando **React**, **Node.js** e **MySQL**. Formado no programa **Geração Tech 2.0**, onde adquiri competências em frontend, backend e banco de dados.  
 
 Atualmente, estou aprofundando meus conhecimentos em **modelagem e otimização de bancos de dados**, além de melhorar minha fluência em **JavaScript**. Sou apaixonado por criar interfaces modernas, responsivas e performáticas, sempre com foco em boas práticas e colaboração em equipe.
 
