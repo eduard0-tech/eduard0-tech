@@ -65,7 +65,7 @@ Atualmente, estou aprofundando meus conhecimentos em **modelagem e otimização 
     <td width="50%">
       <h4>Backend:</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=java,nodejs,express,prisma,mysql" alt="Backend Skills" />
+        <img src="https://skillicons.dev/icons?i=java,nodejs,express,prisma,mysql,mongodb" alt="Backend Skills" />
       </p>
     </td>
   </tr>
